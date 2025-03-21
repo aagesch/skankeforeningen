@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>skankeforeningen</title>
+    <title>skankeforeningen (2)</title>
     <link href="https://aagesch.github.io/skankeforeningen/feed.xml" rel="self" />
     <link href="https://aagesch.github.io/skankeforeningen" />
-    <updated>2024-04-15T16:30:21+02:00</updated>
+    <updated>2025-03-18T23:58:05+01:00</updated>
     <author>
         <name>Å.J.S</name>
     </author>
@@ -14,23 +14,21 @@
         <author>
             <name>Editor</name>
         </author>
-        <link href="https://aagesch.github.io/skankeforeningen/pamelding-til-skankestevnet-i-bergen.html"/>
-        <id>https://aagesch.github.io/skankeforeningen/pamelding-til-skankestevnet-i-bergen.html</id>
+        <link href="https://aagesch.github.io/skankeforeningen/undefined/pamelding-til-skankestevnet-i-bergen.html"/>
+        <id>https://aagesch.github.io/skankeforeningen/undefined/pamelding-til-skankestevnet-i-bergen.html</id>
         <media:content url="https://aagesch.github.io/skankeforeningen/media/posts/32/Bryggen-i-Bergen-2.PNG" medium="image" />
-            <category term="Nyhet"/>
 
         <updated>2024-04-14T23:55:29+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aagesch.github.io/skankeforeningen/media/posts/32/Bryggen-i-Bergen-2.PNG" alt="" />
-                    Bryggen i Bergen. Photo by Michael Fousert on Unsplash Deltakeravgift for stevnet&hellip;
+                        <img src="https://aagesch.github.io/skankeforeningen/media/posts/32/Bryggen-i-Bergen-2.PNG" alt="Bryggen i Bergen" />
+                    Deltakeravgift for stevnet er på kr. 2.500 pr. person (ekslusive hotell). I&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://aagesch.github.io/skankeforeningen/media/posts/32/Bryggen-i-Bergen-2.PNG" class="type:primaryImage" alt="" /></p>
-                <address>Bryggen i Bergen. Photo by Michael Fousert on <a href="https://unsplash.com/">Unsplash</a></address>
-<p>Deltakeravgift for stevnet er på kr. 2.500 pr. person (ekslusive hotell). I denne prisen inngår konferansepakke, middag i Thon Hotell Rosenkrantz fredag kveld, lunsj i hotellet lørdag, festmiddag i hotellet lørdag kveld, lunsj på Osterøy søndag og alle utgifter i forbindelse med utflukter, honorarer og inngangsbilletter, jfr. program for stevnet.</p>
+                    <p><img src="https://aagesch.github.io/skankeforeningen/media/posts/32/Bryggen-i-Bergen-2.PNG" class="type:primaryImage" alt="Bryggen i Bergen" /></p>
+                <p>Deltakeravgift for stevnet er på kr. 2.500 pr. person (ekslusive hotell). I denne prisen inngår konferansepakke, middag i Thon Hotell Rosenkrantz fredag kveld, lunsj i hotellet lørdag, festmiddag i hotellet lørdag kveld, lunsj på Osterøy søndag og alle utgifter i forbindelse med utflukter, honorarer og inngangsbilletter, jfr. program for stevnet.</p>
 <p>Kopier skjemaet nederst i denne teksten og send det til: <br>Hans Brattestå, Skøyen terrasse 38, 0276 OSLO eller <br>alternativt som vedlegg til epost: <a href="mailto:brattesta@hotmail.com">brattesta@hotmail.com.</a></p>
 <p>Retur av skjemaet må skje snarest og senest mandag 13. mai  d.å. av hensyn til de praktiske forberedelser, bestillinger m.v. som må gjøres.</p>
 <p>Samtidig med påmelding bes det aktuelle beløp innbetalt til Skanke-foreningen på vår konto nr.: 4280 11 42146 i Rørosbanken. I meldingsfeltet oppgis referanse ”Skankestevne”, samt navn på deltaker(e).<br>(Ved betaling fra utlandet, IBAN: NO34 42801142146, SWIFT/BIC-kode RORBNO21)</p>
@@ -96,10 +94,9 @@
         <author>
             <name>Editor</name>
         </author>
-        <link href="https://aagesch.github.io/skankeforeningen/skankestevne-i-bergen.html"/>
-        <id>https://aagesch.github.io/skankeforeningen/skankestevne-i-bergen.html</id>
+        <link href="https://aagesch.github.io/skankeforeningen/undefined/skankestevne-i-bergen.html"/>
+        <id>https://aagesch.github.io/skankeforeningen/undefined/skankestevne-i-bergen.html</id>
         <media:content url="https://aagesch.github.io/skankeforeningen/media/posts/31/Bergen-2.PNG" medium="image" />
-            <category term="Nyhet"/>
 
         <updated>2024-04-14T23:27:54+02:00</updated>
             <summary>
@@ -154,10 +151,9 @@
         <author>
             <name>Hans Brattestå</name>
         </author>
-        <link href="https://aagesch.github.io/skankeforeningen/skankestevne-i-tromso.html"/>
-        <id>https://aagesch.github.io/skankeforeningen/skankestevne-i-tromso.html</id>
+        <link href="https://aagesch.github.io/skankeforeningen/undefined/skankestevne-i-tromso.html"/>
+        <id>https://aagesch.github.io/skankeforeningen/undefined/skankestevne-i-tromso.html</id>
         <media:content url="https://aagesch.github.io/skankeforeningen/media/posts/2/5c84e8d689216dc9da69322eaca3f7583a584bbe-tromso.png" medium="image" />
-            <category term="Nyhet"/>
 
         <updated>2018-05-04T23:31:00+02:00</updated>
             <summary>
@@ -187,10 +183,9 @@
         <author>
             <name>Hans Brattestå</name>
         </author>
-        <link href="https://aagesch.github.io/skankeforeningen/arsmote-i-tromso-2018.html"/>
-        <id>https://aagesch.github.io/skankeforeningen/arsmote-i-tromso-2018.html</id>
+        <link href="https://aagesch.github.io/skankeforeningen/undefined/arsmote-i-tromso-2018.html"/>
+        <id>https://aagesch.github.io/skankeforeningen/undefined/arsmote-i-tromso-2018.html</id>
         <media:content url="https://aagesch.github.io/skankeforeningen/media/posts/5/tromso.jpeg" medium="image" />
-            <category term="Nyhet"/>
 
         <updated>2018-04-11T21:33:00+02:00</updated>
             <summary>
@@ -232,10 +227,9 @@
         <author>
             <name>Hans Brattestå</name>
         </author>
-        <link href="https://aagesch.github.io/skankeforeningen/i-skanke-spor-rundt-mjosa.html"/>
-        <id>https://aagesch.github.io/skankeforeningen/i-skanke-spor-rundt-mjosa.html</id>
+        <link href="https://aagesch.github.io/skankeforeningen/undefined/i-skanke-spor-rundt-mjosa.html"/>
+        <id>https://aagesch.github.io/skankeforeningen/undefined/i-skanke-spor-rundt-mjosa.html</id>
         <media:content url="https://aagesch.github.io/skankeforeningen/media/posts/6/mjosa.png" medium="image" />
-            <category term="Nyhet"/>
 
         <updated>2015-05-11T21:42:00+02:00</updated>
             <summary>
@@ -264,10 +258,9 @@
         <author>
             <name>Hans Brattestå</name>
         </author>
-        <link href="https://aagesch.github.io/skankeforeningen/skanker-pa-stortinget-noen-korte-portretter.html"/>
-        <id>https://aagesch.github.io/skankeforeningen/skanker-pa-stortinget-noen-korte-portretter.html</id>
+        <link href="https://aagesch.github.io/skankeforeningen/undefined/skanker-pa-stortinget-noen-korte-portretter.html"/>
+        <id>https://aagesch.github.io/skankeforeningen/undefined/skanker-pa-stortinget-noen-korte-portretter.html</id>
         <media:content url="https://aagesch.github.io/skankeforeningen/media/posts/4/skanke_storting.png" medium="image" />
-            <category term="Artikkel"/>
 
         <updated>2014-04-14T22:32:00+02:00</updated>
             <summary>
@@ -313,10 +306,9 @@
         <author>
             <name>Hans Brattestå</name>
         </author>
-        <link href="https://aagesch.github.io/skankeforeningen/innbydelse-til-den-svenske-skankeforeningens-40-ars-jubileum.html"/>
-        <id>https://aagesch.github.io/skankeforeningen/innbydelse-til-den-svenske-skankeforeningens-40-ars-jubileum.html</id>
+        <link href="https://aagesch.github.io/skankeforeningen/undefined/innbydelse-til-den-svenske-skankeforeningens-40-ars-jubileum.html"/>
+        <id>https://aagesch.github.io/skankeforeningen/undefined/innbydelse-til-den-svenske-skankeforeningens-40-ars-jubileum.html</id>
         <media:content url="https://aagesch.github.io/skankeforeningen/media/posts/7/hackas_kyrka1.jpeg" medium="image" />
-            <category term="Nyhet"/>
 
         <updated>2014-03-11T21:45:00+01:00</updated>
             <summary>
@@ -340,10 +332,9 @@
         <author>
             <name>Hans Brattestå</name>
         </author>
-        <link href="https://aagesch.github.io/skankeforeningen/skanker-og-barfoeder-forbindelsen-mellom-dem.html"/>
-        <id>https://aagesch.github.io/skankeforeningen/skanker-og-barfoeder-forbindelsen-mellom-dem.html</id>
+        <link href="https://aagesch.github.io/skankeforeningen/undefined/skanker-og-barfoeder-forbindelsen-mellom-dem.html"/>
+        <id>https://aagesch.github.io/skankeforeningen/undefined/skanker-og-barfoeder-forbindelsen-mellom-dem.html</id>
         <media:content url="https://aagesch.github.io/skankeforeningen/media/posts/10/skanker_barfoeder.png" medium="image" />
-            <category term="Artikkel"/>
 
         <updated>2013-03-14T16:33:00+01:00</updated>
             <summary>
@@ -405,10 +396,9 @@
         <author>
             <name>Hans Brattestå</name>
         </author>
-        <link href="https://aagesch.github.io/skankeforeningen/cruise-og-arsmote-pa-danskebaten.html"/>
-        <id>https://aagesch.github.io/skankeforeningen/cruise-og-arsmote-pa-danskebaten.html</id>
+        <link href="https://aagesch.github.io/skankeforeningen/undefined/cruise-og-arsmote-pa-danskebaten.html"/>
+        <id>https://aagesch.github.io/skankeforeningen/undefined/cruise-og-arsmote-pa-danskebaten.html</id>
         <media:content url="https://aagesch.github.io/skankeforeningen/media/posts/8/danskebaaten2.jpeg" medium="image" />
-            <category term="Nyhet"/>
 
         <updated>2013-03-11T21:46:00+01:00</updated>
             <summary>
@@ -439,10 +429,9 @@
         <author>
             <name>Editor</name>
         </author>
-        <link href="https://aagesch.github.io/skankeforeningen/den-lange-vegen-fra-mosasid-til-kongens-gull-om-halvord-j-sandalen.html"/>
-        <id>https://aagesch.github.io/skankeforeningen/den-lange-vegen-fra-mosasid-til-kongens-gull-om-halvord-j-sandalen.html</id>
+        <link href="https://aagesch.github.io/skankeforeningen/undefined/den-lange-vegen-fra-mosasid-til-kongens-gull-om-halvord-j-sandalen.html"/>
+        <id>https://aagesch.github.io/skankeforeningen/undefined/den-lange-vegen-fra-mosasid-til-kongens-gull-om-halvord-j-sandalen.html</id>
         <media:content url="https://aagesch.github.io/skankeforeningen/media/posts/14/HS1.jpg" medium="image" />
-            <category term="Artikkel"/>
 
         <updated>2011-07-14T16:53:00+02:00</updated>
             <summary>
