@@ -1,2 +1,2 @@
-Webprosjekt for Skankeforeningen i Norge
+Webprosjekt for Skankeforeningen i Norge.
 Utvklingsverktøy som brukes er Publii.
