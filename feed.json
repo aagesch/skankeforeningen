@@ -1,11 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Skankeforeningen-2",
+    "title": "Skankeforeningen",
     "description": "",
     "home_page_url": "https://aagesch.github.io/skankeforeningen",
     "feed_url": "https://aagesch.github.io/skankeforeningen/feed.json",
     "user_comment": "",
-    "icon": "https://aagesch.github.io/skankeforeningen/media/website/logo.png",
+    "icon": "https://aagesch.github.io/skankeforeningen/media/website/SkankeLogo-lite2.png",
     "author": {
         "name": "Skankeforeningen"
     },
